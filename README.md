@@ -44,11 +44,12 @@
 
 
 ###  المؤشر الأول: عدد الموظفين [عدد_الموظفين.md](kpi/عدد_الموظفين.md)
-- Google Sheet
+- [Google Sheet](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#google-sheet)
 -
 -
 -
 ### المؤشر الثاني: عدد الاستقالات
+
 
 ### المؤشر الثالث: عدد الموظفين الحاليين
 
