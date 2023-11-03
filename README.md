@@ -53,20 +53,27 @@
 
 
 ### المؤشر الثاني: عدد الاستقالات [عدد_الاستقالات.md](kpi/عدد_الاستقالات.md)
-- [ ] [Google Sheet](#google-sheet)
-- [ ] [BigQuery](#bigquery)
-- [ ] [Tableau](#tableau)
-- [ ] [R](#r)
-- [ ] [Python](#python)
+- [x] [Google Sheet](kpi/عدد_الاستقالات.md#google-sheet)
+- [x] [BigQuery](kpi/عدد_الاستقالات.md#bigquery)
+- [x] [Tableau](kpi/عدد_الاستقالات.md#tableau)
+- [x] [R](kpi/عدد_الاستقالات.md#r)
+- [x] [Python](kpi/عدد_الاستقالات.md#python)
 
 
 
 ### المؤشر الثالث: عدد الموظفين الحاليين [عدد_الموظفين_الحاليين.md](kpi/عدد_الموظفين_الحاليين.md)
-- [ ] [Google Sheet](#google-sheet)
-- [ ] [BigQuery](#bigquery)
-- [ ] [Tableau](#tableau)
-- [ ] [R](#r)
-- [ ] [Python](#python)
+- [x] [Google Sheet](kpi/عدد_الاستقالات.md#google-sheet)
+- [x] [BigQuery](kpi/عدد_الاستقالات.md#bigquery)
+- [x] [Tableau](kpi/عدد_الاستقالات.md#tableau)
+- [x] [R](kpi/عدد_الاستقالات.md#r)
+- [x] [Python](kpi/عدد_الاستقالات.md#python)
+
+### المؤشر السادس: تكلفة التوظيف [تكلفة_التوظيف.md](kpi/تكلفة_التوظيف.md)
+- [x] [Google Sheet](kpi/تكلفة_التوظيف.md#google-sheet)
+- [x] [BigQuery](kpi/تكلفة_التوظيف.md#bigquery)
+- [x] [Tableau](kpi/تكلفة_التوظيف.md#tableau)
+- [x] [R](kpi/تكلفة_التوظيف.md#r)
+- [x] [Python](kpi/تكلفة_التوظيف.md#python)
 
 
 ### المؤشر الرابع: معدل دوران الموظفين [معدل_دوران_الموظفين.md](kpi/معدل_دوران_الموظفين.md)
@@ -85,20 +92,15 @@
 - [ ] [Python](#python)
 
 
-### المؤشر السادس: تكلفة التوظيف [معدل_تكلفة_التوظيف.md](kpi/معدل_تكلفة_التوظيف.md)
-- [ ] [Google Sheet](#google-sheet)
-- [ ] [BigQuery](#bigquery)
-- [ ] [Tableau](#tableau)
-- [ ] [R](#r)
-- [ ] [Python](#python)
+
 
 
 ### المؤشر السابع: معدل الغياب [معدل_الغياب.md](kpi/معدل_الغياب.md)
-- [ ] [Google Sheet](#google-sheet)
-- [ ] [BigQuery](#bigquery)
-- [ ] [Tableau](#tableau)
-- [ ] [R](#r)
-- [ ] [Python](#python)
+- [x] [Google Sheet](kpi/معدل_الغياب.md#google-sheet)
+- [x] [BigQuery](kpi/معدل_الغياب.md#bigquery)
+- [x] [Tableau](kpi/معدل_الغياب.md#tableau)
+- [x] [R](kpi/معدل_الغياب.md#r)
+- [x] [Python](kpi/معدل_الغياب.md#python)
 
 
 ### المؤشر الثامن: معدل تكلفة التدريب [معدل_تكلفة_التدريب.md](kpi/معدل_تكلفة_التدريب.md)
@@ -110,11 +112,11 @@
 
 
 ### المؤشر التاسع: معدل الرضا الوظيفي [معدل_الرضا_الوظيفي.md](kpi/معدل_الرضا_الوظيفي.md)
-- [ ] [Google Sheet](#google-sheet)
-- [ ] [BigQuery](#bigquery)
-- [ ] [Tableau](#tableau)
-- [ ] [R](#r)
-- [ ] [Python](#python)
+- [x] [Google Sheet](#google-sheet)
+- [x] [BigQuery](#bigquery)
+- [x] [Tableau](#tableau)
+- [x] [R](#r)
+- [x] [Python](#python)
 
 
 
