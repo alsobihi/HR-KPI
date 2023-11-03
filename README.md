@@ -48,6 +48,8 @@
 - [x] [BigQuery](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#bigquery)
 - [x] [Tableau](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#tableau)
 - [x] [R](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#r)
+- [x] [Python](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#python)
+
 
 
 ### المؤشر الثاني: عدد الاستقالات [عدد_الاستقالات.md](kpi/عدد_الاستقالات.md)
@@ -55,6 +57,8 @@
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 
 ### المؤشر الثالث: عدد الموظفين الحاليين [عدد_الموظفين_الحاليين.md](kpi/عدد_الموظفين_الحاليين.md)
@@ -62,42 +66,55 @@
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 ### المؤشر الرابع: معدل دوران الموظفين [معدل_دوران_الموظفين.md](kpi/معدل_دوران_الموظفين.md)
 - [ ] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 ### المؤشر الخامس: معدل وقت التوظيف [معدل_وقت_التوظيف.md](kpi/معدل_وقت_التوظيف.md)
 - [ ] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 ### المؤشر السادس: تكلفة التوظيف [معدل_تكلفة_التوظيف.md](kpi/معدل_تكلفة_التوظيف.md)
 - [ ] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 ### المؤشر السابع: معدل الغياب [معدل_الغياب.md](kpi/معدل_الغياب.md)
 - [ ] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 ### المؤشر الثامن: معدل تكلفة التدريب [معدل_تكلفة_التدريب.md](kpi/معدل_تكلفة_التدريب.md)
 - [ ] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
+
 
 ### المؤشر التاسع: معدل الرضا الوظيفي [معدل_الرضا_الوظيفي.md](kpi/معدل_الرضا_الوظيفي.md)
 - [ ] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
+- [ ] [Python](#python)
 
 
 
