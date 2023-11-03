@@ -44,7 +44,7 @@
 
 
 ###  المؤشر الأول: عدد الموظفين [عدد_الموظفين.md](kpi/عدد_الموظفين.md)
-- [X] [Google Sheet](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#google-sheet)
+- [x] [Google Sheet](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#google-sheet)
 -
 -
 -
