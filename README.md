@@ -45,9 +45,11 @@
 
 ###  المؤشر الأول: عدد الموظفين [عدد_الموظفين.md](kpi/عدد_الموظفين.md)
 - [x] [Google Sheet](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#google-sheet)
--
--
--
+- [x] [BigQuery](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#bigquery)
+- [x] [Tableau](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#tableau)
+- [x] [R](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#r)
+
+
 ### المؤشر الثاني: عدد الاستقالات [عدد_الاستقالات.md](kpi/عدد_الاستقالات.md)
 
 ### المؤشر الثالث: عدد الموظفين الحاليين [عدد_الموظفين_الحاليين.md](kpi/عدد_الموظفين_الحاليين.md)
