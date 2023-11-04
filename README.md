@@ -3,7 +3,7 @@
 
 > **Note**
 > لمشاهدة النتيجة النهائية قم بالزيارة هنا
-> * Tablue  [نموذج مؤشرات أداة لقسم الموارد البشرية 2023](https://public.tableau.com/views/2023_16991213214090/2023?:language=en-US&:display_count=n&:origin=viz_share_link)
+> * Tableau  [نموذج مؤشرات أداة لقسم الموارد البشرية 2023](https://public.tableau.com/views/2023_16991213214090/2023?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## الأهداف 
