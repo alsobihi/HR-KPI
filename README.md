@@ -62,11 +62,11 @@
 
 
 ### المؤشر الثالث: عدد الموظفين الحاليين [عدد_الموظفين_الحاليين.md](kpi/عدد_الموظفين_الحاليين.md)
-- [x] [Google Sheet](kpi/عدد_الاستقالات.md#google-sheet)
-- [x] [BigQuery](kpi/عدد_الاستقالات.md#bigquery)
-- [x] [Tableau](kpi/عدد_الاستقالات.md#tableau)
-- [x] [R](kpi/عدد_الاستقالات.md#r)
-- [x] [Python](kpi/عدد_الاستقالات.md#python)
+- [x] [Google Sheet](kpi/عدد_الموظفين_الحاليين.md#google-sheet)
+- [x] [BigQuery](kpi/عدد_الموظفين_الحاليين.md#bigquery)
+- [x] [Tableau](kpi/عدد_الموظفين_الحاليين.md#tableau)
+- [x] [R](kpi/عدد_الموظفين_الحاليين.md#r)
+- [x] [Python](kpi/عدد_الموظفين_الحاليين.md#python)
 
 ### المؤشر السادس: تكلفة التوظيف [تكلفة_التوظيف.md](kpi/تكلفة_التوظيف.md)
 - [x] [Google Sheet](kpi/تكلفة_التوظيف.md#google-sheet)
@@ -77,7 +77,7 @@
 
 
 ### المؤشر الرابع: معدل دوران الموظفين [معدل_دوران_الموظفين.md](kpi/معدل_دوران_الموظفين.md)
-- [x] [Google Sheet](#google-sheet)
+- [x] [Google Sheet](kpi/معدل_دوران_الموظفين.md#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
@@ -85,11 +85,11 @@
 
 
 ### المؤشر الخامس: معدل وقت التوظيف [معدل_وقت_التوظيف.md](kpi/معدل_وقت_التوظيف.md)
-- [x] [Google Sheet](#google-sheet)
-- [x] [BigQuery](#bigquery)
-- [x] [Tableau](#tableau)
+- [x] [Google Sheet](kpi/معدل_وقت_التوظيف.md#google-sheet)
+- [x] [BigQuery](kpi/معدل_وقت_التوظيف.md#bigquery)
+- [x] [Tableau]kpi/معدل_وقت_التوظيف.md(#tableau)
 - [ ] [R](#r)
-- [x] [Python](#python)
+- [x] [Python](kpi/معدل_وقت_التوظيف.md#python)
 
 
 
@@ -112,11 +112,11 @@
 
 
 ### المؤشر التاسع: معدل الرضا الوظيفي [معدل_الرضا_الوظيفي.md](kpi/معدل_الرضا_الوظيفي.md)
-- [x] [Google Sheet](#google-sheet)
-- [x] [BigQuery](#bigquery)
-- [x] [Tableau](#tableau)
-- [x] [R](#r)
-- [x] [Python](#python)
+- [x] [Google Sheet](kpi/معدل_الرضا_الوظيفي.md#google-sheet)
+- [x] [BigQuery](kpi/معدل_الرضا_الوظيفي.md#bigquery)
+- [x] [Tableau](kpi/معدل_الرضا_الوظيفي.md#tableau)
+- [x] [R](kpi/معدل_الرضا_الوظيفي.md#r)
+- [x] [Python]kpi/معدل_الرضا_الوظيفي.md(#python)
 
 
 
