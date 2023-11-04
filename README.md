@@ -1,8 +1,8 @@
 
 # نموذج مؤشرات أداة لقسم الموارد البشرية
 
-<div lang="ar" class='tableauPlaceholder' id='viz1699122024315' style='position: relative'><noscript><a lang="ar"  href='https:&#47;&#47;github.com&#47;alsobihi&#47;HR-KPI'><img lang="ar"  alt='مؤشرات أداة الموارد البشرية 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2023_16991213214090&#47;2023&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param lang="ar"  name='embed_code_version' value='3' /> <param lang="ar"  name='site_root' value='' /><param lang="ar"  name='name' value='2023_16991213214090&#47;2023' /><param lang="ar"  name='tabs' value='no' /><param name='toolbar' value='yes' /><param lang="ar"  name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2023_16991213214090&#47;2023&#47;1.png' /> <param lang="ar"  name='animate_transition' value='yes' /><param lang="ar"  name='display_static_image' value='yes' /><param lang="ar"  name='display_spinner' value='yes' /><param lang="ar"  name='display_overlay' value='yes' /><param lang="ar"   name='display_count' value='yes' /><param lang="ar"  name='language' value='ar-sa' /></object></div>       
-
+> **Note**
+> here somenote
 
 
 ## الأهداف 
