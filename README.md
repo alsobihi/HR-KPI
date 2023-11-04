@@ -116,7 +116,7 @@
 - [x] [BigQuery](kpi/معدل_الرضا_الوظيفي.md#bigquery)
 - [x] [Tableau](kpi/معدل_الرضا_الوظيفي.md#tableau)
 - [x] [R](kpi/معدل_الرضا_الوظيفي.md#r)
-- [x] [Python]kpi/معدل_الرضا_الوظيفي.md(#python)
+- [x] [Python](kpi/معدل_الرضا_الوظيفي.md#python)
 
 
 
