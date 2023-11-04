@@ -77,7 +77,7 @@
 
 
 ### المؤشر الرابع: معدل دوران الموظفين [معدل_دوران_الموظفين.md](kpi/معدل_دوران_الموظفين.md)
-- [ ] [Google Sheet](#google-sheet)
+- [x] [Google Sheet](#google-sheet)
 - [ ] [BigQuery](#bigquery)
 - [ ] [Tableau](#tableau)
 - [ ] [R](#r)
@@ -85,11 +85,11 @@
 
 
 ### المؤشر الخامس: معدل وقت التوظيف [معدل_وقت_التوظيف.md](kpi/معدل_وقت_التوظيف.md)
-- [ ] [Google Sheet](#google-sheet)
-- [ ] [BigQuery](#bigquery)
-- [ ] [Tableau](#tableau)
+- [x] [Google Sheet](#google-sheet)
+- [x] [BigQuery](#bigquery)
+- [x] [Tableau](#tableau)
 - [ ] [R](#r)
-- [ ] [Python](#python)
+- [x] [Python](#python)
 
 
 
