@@ -87,7 +87,7 @@
 ### المؤشر الخامس: معدل وقت التوظيف [معدل_وقت_التوظيف.md](kpi/معدل_وقت_التوظيف.md)
 - [x] [Google Sheet](kpi/معدل_وقت_التوظيف.md#google-sheet)
 - [x] [BigQuery](kpi/معدل_وقت_التوظيف.md#bigquery)
-- [x] [Tableau]kpi/معدل_وقت_التوظيف.md(#tableau)
+- [x] [Tableau](kpi/معدل_وقت_التوظيف.md#tableau)
 - [ ] [R](#r)
 - [x] [Python](kpi/معدل_وقت_التوظيف.md#python)
 
