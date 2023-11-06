@@ -12,7 +12,7 @@
   **تحديد مؤشرات أداة لقسم الموارد البشرية لعام 2023**
   
 
-1. **عدد الموظفين** - [x] [Google Sheet](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#google-sheet)
+1. **عدد الموظفين** \/ + [x] [Google Sheet](https://github.com/alsobihi/HR-KPI/blob/main/kpi/عدد_الموظفين.md#google-sheet)
 1.  **عدد استقالات الموظفين**
 1. **عدد الموظفين الحاليين**
 1. **معدل دوران الموظفين**
