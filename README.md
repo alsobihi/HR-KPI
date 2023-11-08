@@ -108,7 +108,7 @@
 - [x] [Google Sheet](kpi/تكلفة_التدريب.md#google-sheet)
 - [x] [BigQuery](kpi/تكلفة_التدريب.md#bigquery)
 - [x] [Tableau](kpi/تكلفة_التدريب.md#tableau)
-- [ ] [R](#r)
+- [x] [R](kpi/تكلفة_التدريب.md#r)
 - [x] [Python](kpi/تكلفة_التدريب.md#python)
 
 
